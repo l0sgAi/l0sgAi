@@ -1,15 +1,16 @@
 <h1 align="center">Hi there 👋, I'm l0sgAi</h1>
 <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Workbench&size=32&pause=1000&color=F75612&background=089DFF63&center=true&vCenter=true&width=435&lines=Hello!+I'm+l0sgA1." alt="Typing SVG" /></a>
  </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 CS undergrad | Passionate about **FinTech** & **AI**
-- 💼 Currently building cool stuff with **Spring Boot**, **Elasticsearch**, and **Android**
-- ✨ Exploring **Mail parsing**, **Data deduplication**, and **Smart UIs**
-- 🚀 Preparing for **G5 & 港5** postgrad programs (FinTech / SE)
+- 🎓 SWE undergrad | Passionate about **Web Application Development** & **AI**.
+- 💼 Currently building cool stuff with **Spring Boot**, **Elasticsearch**, and **vue.js**.
+- ✨ Exploring **Mail parsing**, **Data deduplication**, and **Smart UIs**.
+- 🚀 Preparing for Master's degree.
 
 ---
 
