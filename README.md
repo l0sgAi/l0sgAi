@@ -51,6 +51,9 @@
  <a href="https://github.com/l0sgAi/android-customer-app">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=l0sgAi&repo=EngineerHelper&theme=tokyonight&hide_border=true" />
  </a>
+ <a href="https://github.com/l0sgAi/ai-chat-demo">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=l0sgAi&repo=ai-chat-demo&theme=tokyonight&hide_border=true" />
+ </a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=l0sgAi&style=flat-square&color=blue" alt="Profile views" /> </p>
