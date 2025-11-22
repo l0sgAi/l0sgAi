@@ -49,7 +49,7 @@
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=l0sgAi&repo=spzx-parent&theme=tokyonight&hide_border=true" />
  </a>
  <a href="https://github.com/l0sgAi/android-customer-app">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=l0sgAi&repo=EngineerHelper&theme=tokyonight&hide_border=true" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=l0sgAi&repo=car-rental-backend&theme=tokyonight&hide_border=true" />
  </a>
  <a href="https://github.com/l0sgAi/ai-chat-demo">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=l0sgAi&repo=ai-chat-demo&theme=tokyonight&hide_border=true" />
